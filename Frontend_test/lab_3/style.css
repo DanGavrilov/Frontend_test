@@ -1,0 +1,13 @@
+
+.follow-cursor {
+  
+    width: 500px;
+    border-radius: 100%;
+    position: absolute; 
+    
+    
+  }
+  button{
+    width: 30%;
+    height: 100px;
+  }
